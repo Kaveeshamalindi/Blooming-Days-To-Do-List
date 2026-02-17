@@ -18,6 +18,18 @@ That creative graphical To-Do-List application was built using Java Swing. Users
 
 ## 📷 Screenshots
 
+<p align="center">
+  <img src="Images/img1.png" width="500"><br>
+  <b>Figure 1:</b> Login Screen
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Images/img2.png" width="500"><br>
+  <b>Figure 2:</b> Home Screen - Task Dashboard
+</p>
+
 ---
 
 ## 🔩 How It Works
