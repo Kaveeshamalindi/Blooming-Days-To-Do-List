@@ -10,13 +10,26 @@ That creative graphical To-Do-List application was built using Java Swing. Users
 - Add a task with a task name and end time.
 - Display all tasks in a table for easy viewing.
 - Delete tasks after completion.
-- Store tasks in a text file (task.txt) for persistence.
+- Store tasks in a text file (<code>task.txt</code>) for persistence.
 - User-friendly and visually appealing UI with motivational graphics.
 - Personalized greeting by entering your name.
 
 ---
 
 ## 📷 Screenshots
+
+---
+
+## 🔩 How It Works
+
+### Login Screen
+- Enter your name and click **Continue**.
+- Your name will appear on the home page as a greeting.
+
+### Home Screen
+- Add Task: Enter a task name and end time, then click **Add Task**.
+- Delete Task: Select a task from the table and click **Delete Task**.
+- Tasks are saved to <code>task.txt</code> automatically.
 
 ---
 
