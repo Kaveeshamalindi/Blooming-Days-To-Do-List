@@ -53,9 +53,9 @@ That creative graphical To-Do-List application was built using Java Swing. Users
 git clone https://github.com/Kaveeshamalindi/Blooming-Days-To-Do-List.git
 ```
 
-3. Open the project in **NetBeans** (or any Java IDE that supports Swing).
-4. Compile & run the program.
-5. Enter your name and start adding tasks.
+2. Open the project in **NetBeans** (or any Java IDE that supports Swing).
+3. Compile & run the program.
+4. Enter your name and start adding tasks.
 
 ---
 
